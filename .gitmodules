@@ -1,0 +1,2 @@
+[submodule "Carthage/Checkouts/SwiftParsec"]
+	url = https://github.com/davedufresne/SwiftParsec.git
