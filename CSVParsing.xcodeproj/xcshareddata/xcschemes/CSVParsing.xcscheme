@@ -1,25 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "9999"
+   LastUpgradeVersion = "0820"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
       <BuildActionEntries>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "YES"
-            buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_44"
-               BuildableName = "SwiftParsec.framework"
-               BlueprintName = "SwiftParsec"
-               ReferencedContainer = "container:CSVParsing.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
          <BuildActionEntry
             buildForTesting = "YES"
             buildForRunning = "YES"
@@ -42,16 +28,6 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_84"
-               BuildableName = "CSVParsing.xctest"
-               BlueprintName = "CSVParsingTests"
-               ReferencedContainer = "container:CSVParsing.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <AdditionalOptions>
       </AdditionalOptions>
@@ -69,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "OBJ_44"
-            BuildableName = "SwiftParsec.framework"
-            BlueprintName = "SwiftParsec"
+            BlueprintIdentifier = "OBJ_74"
+            BuildableName = "CSVParsing.framework"
+            BlueprintName = "CSVParsing"
             ReferencedContainer = "container:CSVParsing.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -84,6 +60,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "OBJ_74"
+            BuildableName = "CSVParsing.framework"
+            BlueprintName = "CSVParsing"
+            ReferencedContainer = "container:CSVParsing.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
